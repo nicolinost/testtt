@@ -1,5 +1,5 @@
-ferferfgrgrterfrtrgtrtgrt#Codezdezdeentributing
-
+ertgrtferfreferf#Contributing
+frefgrt
 Contributing back to `Elasticsearch.Net` and `NEST` is very much appreciated. 
 Whether you [feel the need to change one character](https://github.com/elasticsearch/elasticsearch-net/pull/536) or have a go at 
 [mapping new API's](http://github.com/elasticsearch/elasticsearch-net/pull/376) no PR is too small or too big. 
